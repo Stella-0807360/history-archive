@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+tools/
+deploy/
+启动.bat
+*.md
+.git/
+.gitignore
+Dockerfile*
+.dockerignore
+clawcloud.json
